@@ -1,5 +1,8 @@
+.idea
 .pytest_cache
+*.pyc
 build
 dist
 output
 tdownloader.egg-info
+TDownloader.egg-info
