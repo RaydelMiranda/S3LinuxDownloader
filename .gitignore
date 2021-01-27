@@ -1,0 +1,5 @@
+.pytest_cache
+build
+dist
+output
+tdownloader.egg-info
